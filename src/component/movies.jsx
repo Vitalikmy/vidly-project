@@ -150,7 +150,6 @@ class Movie extends Component {
             pageSize={pageSize}
             currentPage={currentPage}
             onPageChange={this.handlePageChange}
-            //totalElements={filtered.length}
           />
         </div>
       </div>
